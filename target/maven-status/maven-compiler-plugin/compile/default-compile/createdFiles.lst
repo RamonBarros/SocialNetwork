@@ -1,0 +1,7 @@
+br/com/socialnetwork/service/impl/PersonServiceImpl.class
+br/com/socialnetwork/Application.class
+br/com/socialnetwork/controller/PersonController.class
+br/com/socialnetwork/transaction/PersonTransaction.class
+br/com/socialnetwork/domain/Person.class
+br/com/socialnetwork/service/PersonService.class
+br/com/socialnetwork/integration/PersonRepository.class

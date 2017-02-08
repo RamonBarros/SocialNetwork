@@ -1,0 +1,7 @@
+/home/ramonbarros/projects/java/oi/SocialNetwork/src/main/java/br/com/socialnetwork/domain/Person.java
+/home/ramonbarros/projects/java/oi/SocialNetwork/src/main/java/br/com/socialnetwork/service/PersonService.java
+/home/ramonbarros/projects/java/oi/SocialNetwork/src/main/java/br/com/socialnetwork/Application.java
+/home/ramonbarros/projects/java/oi/SocialNetwork/src/main/java/br/com/socialnetwork/transaction/PersonTransaction.java
+/home/ramonbarros/projects/java/oi/SocialNetwork/src/main/java/br/com/socialnetwork/integration/PersonRepository.java
+/home/ramonbarros/projects/java/oi/SocialNetwork/src/main/java/br/com/socialnetwork/controller/PersonController.java
+/home/ramonbarros/projects/java/oi/SocialNetwork/src/main/java/br/com/socialnetwork/service/impl/PersonServiceImpl.java
